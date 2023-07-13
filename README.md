@@ -1,4 +1,4 @@
-# introduction-to-algorithms
+# Introduction to Algorithms
 
 🧠 Repository with my answers for the exercises in the Introduction to Algorithms book.
 
