@@ -9,6 +9,7 @@
 ## 📚 Table of Contents
 
 <details><summary>1. The Role of Algorithms in Computing</summary>
+<br>
 <details><summary>1.1 Algorithms</summary>
 
 - [1.1-1](./src/1/1.1/1.1-1.md)
