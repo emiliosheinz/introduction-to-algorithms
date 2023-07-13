@@ -2,7 +2,7 @@
 
 🧠 Repository with my answers for the exercises in the Introduction to Algorithms book.
 
-<img src="./docs/banner.jpeg" style="width: 100%;">
+<img src="./images/banner.jpeg" style="width: 100%;">
 
 --- 
 
