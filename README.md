@@ -1,4 +1,4 @@
-# introduction-to-algorithms
+# Introduction to Algorithms
 
 🧠 Repository with my answers for the exercises in the Introduction to Algorithms book.
 
@@ -9,7 +9,7 @@
 ## 📚 Table of Contents
 
 <details><summary>1. The Role of Algorithms in Computing</summary>
-<details style="margin-left: 18px;"><summary>1.1 Algorithms</summary>
+<details><summary>1.1 Algorithms</summary>
 
 - [1.1-1](./1/1.1/1.1-1.md)
 - [1.1-2](./1/1.1/1.1-2.md)
