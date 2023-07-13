@@ -11,12 +11,20 @@
 <details><summary>1. The Role of Algorithms in Computing</summary>
 <details><summary>1.1 Algorithms</summary>
 
-- [1.1-1](./1/1.1/1.1-1.md)
-- [1.1-2](./1/1.1/1.1-2.md)
-- [1.1-3](./1/1.1/1.1-3.md)
-- [1.1-4](./1/1.1/1.1-4.md)
-- [1.1-5](./1/1.1/1.1-5.md)
-- [1.1-6](./1/1.1/1.1-6.md)
+- [1.1-1](./src/1/1.1/1.1-1.md)
+- [1.1-2](./src/1/1.1/1.1-2.md)
+- [1.1-3](./src/1/1.1/1.1-3.md)
+- [1.1-4](./src/1/1.1/1.1-4.md)
+- [1.1-5](./src/1/1.1/1.1-5.md)
+- [1.1-6](./src/1/1.1/1.1-6.md)
+
+</details>
+
+<details><summary>1.2 Algorithms as a technology</summary>
+
+- [1.2-1](./src/1/1.2/1.2-1.md)
+- [1.2-2](./src/1/1.2/1.2-2/1.2-2.md)
+- [1.2-3](./src/1/1.2/1.2-3/1.2-3.md)
 
 </details>
 </details>
