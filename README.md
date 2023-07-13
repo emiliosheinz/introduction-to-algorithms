@@ -22,8 +22,8 @@
 <details><summary>1.2 Algorithms as a technology</summary>
 
 - [1.2-1](./src/1/1.2/1.2-1.md)
-- [1.2-2](./src/1/1.2/1.2-2/1.2-2.md)
-- [1.2-3](./src/1/1.2/1.2-3/1.2-3.md)
+- [1.2-2](./src/1/1.2/1.2-2)
+- [1.2-3](./src/1/1.2/1.2-3)
 </details>
 </details>
 
