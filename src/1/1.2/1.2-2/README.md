@@ -3,4 +3,4 @@
 
 The values of n for which insertion beats merge sort is 2 <= n <= 43.
 
-<img src="./images/1.2-2.png" style="width: 100%;">
+<img src="./graph.png" style="width: 100%;">
