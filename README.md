@@ -19,7 +19,6 @@
 - [1.1-6](./src/1/1.1/1.1-6.md)
 
 </details>
-
 <details><summary>1.2 Algorithms as a technology</summary>
 
 - [1.2-1](./src/1/1.2/1.2-1.md)
