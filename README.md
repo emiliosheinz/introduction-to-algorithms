@@ -8,32 +8,24 @@
 
 ## 📚 Table of Contents
 
-<details><summary>1. The Role of Algorithms in Computing</summary>
-<br>
-<details><summary>1.1 Algorithms</summary>
+1. **The Role of Algorithms in Computing**
 
-- [1.1-1](./src/1/1.1/1.1-1.md)
-- [1.1-2](./src/1/1.1/1.1-2.md)
-- [1.1-3](./src/1/1.1/1.1-3.md)
-- [1.1-4](./src/1/1.1/1.1-4.md)
-- [1.1-5](./src/1/1.1/1.1-5.md)
-- [1.1-6](./src/1/1.1/1.1-6.md)
-</details>
+   1.1 Algorithms
+    - [1.1-1](./src/1/1.1/1.1-1.md)
+    - [1.1-2](./src/1/1.1/1.1-2.md)
+    - [1.1-3](./src/1/1.1/1.1-3.md)
+    - [1.1-4](./src/1/1.1/1.1-4.md)
+    - [1.1-5](./src/1/1.1/1.1-5.md)
+    - [1.1-6](./src/1/1.1/1.1-6.md)
 
-<details><summary>1.2 Algorithms as a technology</summary>
+   1.2 Algorithms as a technology
+    - [1.2-1](./src/1/1.2/1.2-1.md)
+    - [1.2-2](./src/1/1.2/1.2-2)
+    - [1.2-3](./src/1/1.2/1.2-3)
+    - [1-1](./src/1/1-1)
+     
+2. **Getting Started**
 
-- [1.2-1](./src/1/1.2/1.2-1.md)
-- [1.2-2](./src/1/1.2/1.2-2)
-- [1.2-3](./src/1/1.2/1.2-3)
-- [1-1](./src/1/1-1)
-</details>
-</details>
-
-<details><summary>2. Getting Started</summary>
-<br>
-<details><summary>2.1 Insertion Sort</summary>
-
-- [2.1-1](./src/2/2.1/2.1-1)
-</details>
-</details>
+   2.1 Insertion Sort
+    - [2.1-1](./src/2/2.1/2.1-1)
 
