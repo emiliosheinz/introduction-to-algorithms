@@ -25,7 +25,15 @@
 - [1.2-1](./src/1/1.2/1.2-1.md)
 - [1.2-2](./src/1/1.2/1.2-2)
 - [1.2-3](./src/1/1.2/1.2-3)
-- [1-1](./src/1/1-1/README.md)
+- [1-1](./src/1/1-1)
+</details>
+</details>
+
+<details><summary>2. Getting Started</summary>
+<br>
+<details><summary>2.1 Insertion Sort</summary>
+
+- [2.1-1](./src/2/2.1/2.1-1)
 </details>
 </details>
 
