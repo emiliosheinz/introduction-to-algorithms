@@ -1,6 +1,6 @@
 # 2.1-2
 
-**Consider the procedure SUM-ARRAY on the facing page. It computes the sum of the n numbers in array A[1 : n]. State a loop invariant for this procedure, and use its initialization, maintenance, and termination properties to show that the SUM-ARRAY procedure returns the sum of the numbers in A[1 : n].**
+Consider the procedure SUM-ARRAY on the facing page. It computes the sum of the n numbers in array A[1 : n]. State a loop invariant for this procedure, and use its initialization, maintenance, and termination properties to show that the SUM-ARRAY procedure returns the sum of the numbers in A[1 : n].
 
 ```
 SUM-ARRAY(A, n)
@@ -9,6 +9,8 @@ SUM-ARRAY(A, n)
     sum = sum + A[i]
   return sum
 ```
+
+## Solution
 
 **Loop Invariant:** At the end of each iteration, `sum` contains the sum of the first `i` numbers.
 

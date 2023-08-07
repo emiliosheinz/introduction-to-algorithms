@@ -6,6 +6,8 @@ Consider the searching problem:
 
 **Output:** An index i such that x equals A[i] or the special value NIL if x does not appear in A. Write pseudocode for linear search, which scans through the array from beginning to end, looking for x. Using a loop invariant, prove that your algorithm is correct. Make sure that your loop invariant fulfills the three necessary properties.
 
+## Solution
+
 ```python
 def linear_search(A, x):
     for i in range(len(A)):
