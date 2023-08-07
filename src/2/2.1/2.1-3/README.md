@@ -1,6 +1,6 @@
 # 2.1-3
 
-Rewrite the INSERTION-SORT procedure to sort into monotonically decreasing instead of monotonically increasing order.
+**Rewrite the INSERTION-SORT procedure to sort into monotonically decreasing instead of monotonically increasing order.**
 
 The solution is in [insertion_sort.py](./insertion_sort.py).
 
