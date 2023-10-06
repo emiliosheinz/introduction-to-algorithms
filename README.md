@@ -1,6 +1,6 @@
 # Introduction to Algorithms
 
-🧠 Repository with my answers for the exercises in the Introduction to Algorithms book.
+This repository houses my solutions to the exercises found in the 'Introduction to Algorithms' book. Explore this collection to access my comprehensive answers, which serve as a valuable resource for those studying this fundamental subject.
 
 <img src="./images/banner.jpeg" style="width: 100%;">
 
