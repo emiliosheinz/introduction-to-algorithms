@@ -33,3 +33,6 @@ This repository houses my solutions to the exercises found in the 'Introduction 
     - [2.1-4](./src/2/2.1/2.1-4)
     - [2.1-5](./src/2/2.1/2.1-5)
 
+   2.2 Analyzing algorithms
+    - [2.2-1](./src/2/2.2/2.2-1)
+    - [2.2-2](./src/2/2.2/2.2-2)
