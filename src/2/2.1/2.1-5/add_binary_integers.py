@@ -6,9 +6,3 @@ def add_binary_integers(a, b, n):
         carry = (a[i] + b[i] + carry) // 2
     result[0] = carry
     return result
-
-
-a = [1, 1, 0]
-b = [0, 0, 1]
-
-print(add_binary_integers(a, b, 3))

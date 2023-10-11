@@ -1,4 +1,4 @@
-def increasing_insertion_sort(a, n):
+def insertion_sort(a, n):
     for i in range(1, n):
         key = a[i]
         j = i - 1
@@ -7,7 +7,3 @@ def increasing_insertion_sort(a, n):
             j = j - 1
         a[j + 1] = key
     print(a)
-
-
-numbers = [5, 2, 4, 6, 1, 3]
-increasing_insertion_sort(numbers, numbers.__len__())
