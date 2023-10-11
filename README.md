@@ -40,3 +40,6 @@ This repository houses my solutions to the exercises found in the 'Introduction 
     - [2.2-2](./src/2/2.2/2.2-2)
     - [2.2-3](./src/2/2.2/2.2-3)
     - [2.2-4](./src/2/2.2/2.2-4)
+
+   2.3 Designing algorithms
+    - [2.3-1](./src/2/2.3/2.3-1)
