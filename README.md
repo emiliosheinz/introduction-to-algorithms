@@ -31,9 +31,9 @@ python -m unittest discover -v
 
 1. **The Role of Algorithms in Computing**
 
+   - [1-1](./src/1/1_1)
 
    1.1 Algorithms
-    - [1-1](./src/1/1_1/1_1)
     - [1.1-1](./src/1/1_1/1_1_1)
     - [1.1-2](./src/1/1_1/1_1_2)
     - [1.1-3](./src/1/1_1/1_1_3)
