@@ -17,13 +17,13 @@ This repository houses my solutions to the exercises found in the 'Introduction 
 
 2. Activate the virtual env
 3. Install dependencies
-```
-pip install -r requirements.tx
-```
+   ```
+   pip install -r requirements.tx
+   ```
 4. Run the unit tests
-```
-python -m unittest discover -v
-```
+   ```
+   pytest
+   ```
 
 ---
 
