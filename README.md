@@ -58,3 +58,5 @@ This repository houses my solutions to the exercises found in the 'Introduction 
    2.3 Designing algorithms
     - [2.3-1](./src/2/2.3/2.3-1)
     - [2.3-2](./src/2/2.3/2.3-2)
+    - [2.3-3](./src/2/2.3/2.3-3)
+    - [2.3-4](./src/2/2.3/2.3-4)
