@@ -6,7 +6,7 @@ function merge(a: Array<number>, b: Array<number>): Array<number> {
     result.push(element)
   }
 
-  return result.concat(a).concat(b)
+  return result.concat(a, b)
 }
 
 export function mergeSort(elements: Array<number>): Array<number> {
