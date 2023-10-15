@@ -4,4 +4,4 @@ Consider the problem of adding two n-bit binary integers a and b, stored in two 
 
 ## Solution
 
-Solution code can be found in [add-binary-integers.py](./add-binary-integers.py)
+Solution code can be found in [add-binary-integers.ts](./add-binary-integers.ts)
