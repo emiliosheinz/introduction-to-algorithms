@@ -10,19 +10,13 @@ This repository houses my solutions to the exercises found in the 'Introduction 
 
 ## 🛠️ Setup Locally
 
-1. Create a new virtual env
+1. Install dependencies
    ```
-   py -m venv venv 
+   yarn
    ```
-
-2. Activate the virtual env
-3. Install dependencies
+2. Run tests
    ```
-   pip install -r requirements.tx
-   ```
-4. Run the unit tests
-   ```
-   pytest
+   yarn test
    ```
 
 ---
