@@ -20,5 +20,15 @@ recursiveInsertionSort(a, n) {
   recursiveInsertionSort(a, n + 1)
 }
 ```
+**Recurrence:**
+
+$$
+T(n) = \begin{cases}
+    \Theta(1) & \text{if } n = 1 \\
+    T\left(n - 1\right) + \Theta(n) & \text{if } n > 1
+\end{cases}
+$$
+
+This means that the worst-case running time of the recursive version of insertion sort is $\Theta(n^2)$. Each element (n) needs to be shifted to the right position in the sorted subarray (n).
 
 You also can find the TypeScript implementation in [./recursive-insertion-sort.ts](./recursive-insertion-sort.ts).
