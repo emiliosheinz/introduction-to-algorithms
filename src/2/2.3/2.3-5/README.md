@@ -31,4 +31,4 @@ $$
 
 This means that the worst-case running time of the recursive version of insertion sort is $\Theta(n^2)$. Each element (n) needs to be shifted to the right position in the sorted subarray (n).
 
-You also can find the TypeScript implementation of the pseudocode above in [./recursive-insertion-sort.ts](./recursive-insertion-sort.ts).
+You also can find the implementation of the pseudocode above in [./recursive-insertion-sort.ts](./recursive-insertion-sort.ts).
