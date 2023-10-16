@@ -45,20 +45,20 @@ This repository houses my solutions to the exercises found in the 'Introduction 
    2.1 Insertion Sort
     - [2.1-1](./src/2/2.1/2.1-1)
     - [2.1-2](./src/2/2.1/2.1-2)
-    - [2.1-3](./src/2/2.1/2.1-3)
+    - [2.1-3](./src/2/2.1/2.1-3) (Descending Insertion Sort)
     - [2.1-4](./src/2/2.1/2.1-4)
     - [2.1-5](./src/2/2.1/2.1-5)
 
    2.2 Analyzing algorithms
     - [2.2-1](./src/2/2.2/2.2-1)
-    - [2.2-2](./src/2/2.2/2.2-2)
+    - [2.2-2](./src/2/2.2/2.2-2) (Selection Sort)
     - [2.2-3](./src/2/2.2/2.2-3)
     - [2.2-4](./src/2/2.2/2.2-4)
 
    2.3 Designing algorithms
-    - [2.3-1](./src/2/2.3/2.3-1)
+    - [2.3-1](./src/2/2.3/2.3-1) (Merge Sort)
     - [2.3-2](./src/2/2.3/2.3-2)
     - [2.3-3](./src/2/2.3/2.3-3)
     - [2.3-4](./src/2/2.3/2.3-4)
-    - [2.3-5](./src/2/2.3/2.3-5)
-    - [2.3-6](./src/2/2.3/2.3-6)
+    - [2.3-5](./src/2/2.3/2.3-5) (Recursive Insertion Sort)
+    - [2.3-6](./src/2/2.3/2.3-6) (Binary Search)
